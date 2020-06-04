@@ -1,0 +1,41 @@
+body{
+	background: linear-gradient(to right,rgb(160,250,27),rgb(15,2,9)); 
+	font-family: 'Balsamiq Sans', cursive;
+	opacity: 0.8;
+}
+.gradient{
+	display: grid;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.colorchoose{
+	display: inline-block;
+	text-align: center;
+}
+.color2{
+	margin: 20px;
+}
+h1{
+	text-align: center;
+	margin-bottom: 0px;
+	font-size: 8em;
+	margin-top: 10px;
+
+}
+h4{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 4em;
+	margin-bottom: 0px;
+}
+h2{
+	text-align: center;
+}
+#random{
+    text-align: center;
+    margin: 150%
+    width: 15em;
+    height: 3em;
+    background-color: black;
+    color: white;
+}
